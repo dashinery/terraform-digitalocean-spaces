@@ -1,9 +1,10 @@
-# Terraform module template
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/dashinery/terraform-module-template)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dashinery/terraform-module-template/tests.yaml)
+# Digitalocean Spaces Terraform module
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/dashinery/terraform-digitalocean-spaces)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dashinery/terraform-digitalocean-spaces/tests.yaml)
 ![Maintenance](https://img.shields.io/maintenance/yes/2023)
 
-Brief module description.
+Terraform module for managing Digitalocean Spaces.
+
 ## Usage
 ...
 
